@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Asavela Tshonisile 👋</h1>
 
 <h3 align="center">
-  ICT Student | Aspiring Software Developer | Problem Solver
+  ICT Student | Aspiring Software Developer | Problem Solver| 
 </h3>
 
 <p align="center">
@@ -18,12 +18,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year Diploma in ICT student at **Sol Plaatje University (SPU)** with a passion for software development, technology, and solving real-world problems through innovative digital solutions.
+I'm a final-year Diploma in ICT student at **Sol Plaatje University (SPU)** with a passion for software development, data analysis, human centered technology, artificial intelligence and solving real-world problems  through innovative digital solutions.
 
 I enjoy turning ideas into practical applications, exploring new technologies, and strengthening my skills through hands-on projects, collaborative work, and continuous learning.
 
 - 🎓 Currently completing my Diploma in ICT.
-- 💻 Interested in application development, backend engineering, and data analysis.
+- 💻 Interested in application development, human centered technology, backend engineering, and data analysis.
 - ☕ Developing my programming skills in Java and Python.
 - 🌐 Exploring REST APIs, full-stack development, and database integration.
 - 🤝 Interested in collaborative projects and opportunities to grow as a developer.
