@@ -61,50 +61,10 @@ I enjoy turning ideas into practical applications, exploring new technologies, a
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. CivicLink SA
-**Digital service-delivery reporting platform**
-
-A project concept focused on helping communities report and track municipal service-delivery issues, such as potholes, water leaks, sanitation problems, and electricity faults.
-
-**Focus areas:** Human-Computer Interaction, usability, issue reporting, status tracking, and digital public services.
-
-### 2. Learnitics
-**Mastery-based e-learning platform | SDG 4**
-
-An e-learning platform concept designed to support quality education through structured courses, lessons, quizzes, and student progress tracking.
-
-**Planned stack:** React, Tailwind CSS, Node.js, Express, MongoDB, and JWT authentication.
-
-### 3. Java Spring Employee API
-**Backend development and REST APIs**
-
-A Java Spring Boot project focused on employee data management through REST endpoints, with an emphasis on backend development, API design, and testing.
-
-**Focus areas:** Java, Spring Boot, REST APIs, JSON, and automated testing.
-
-### 4. Python World Bank Analysis
-**Data analysis | Collaborative project**
-
-A group project exploring the use of Python for working with and analysing World Bank data.
-
-**Focus areas:** Python, data processing, exploratory analysis, and data-driven insights.
-
-> Visit my repositories to explore the source code, documentation, and progress of my projects.
-
-🔗 **[Explore My GitHub Repositories](https://github.com/AsavelaTshonisile?tab=repositories)**
 
 ---
 
-## 📜 Certifications & Professional Development
 
-- **Oracle Java Foundation** — Oracle
-- **Software Engineering Job Simulation** — Hewlett Packard Enterprise (Forage)
-- **Agile Project Management** — HP
-- **Microsoft AI Fluency** — Microsoft
-- **Prompt Engineering For Everyone** — Cognitive Class
-- **Introduction to Project Management** — National School of Government
 
 ---
 
@@ -128,9 +88,6 @@ A group project exploring the use of Python for working with and analysing World
 - Developing projects that demonstrate clean code and thoughtful design.
 - Preparing for opportunities in software development and the broader ICT industry.
 
----
-
-## 🤝 Let's Connect
 
 I'm open to learning, collaborating on projects, and connecting with people in the technology community.
 
