@@ -30,7 +30,7 @@ I enjoy turning ideas into practical applications, exploring new technologies, a
 
 ---
 
-## 🛠️ Technical Skills
+
 
 ### Programming Languages
 <p>
@@ -39,9 +39,9 @@ I enjoy turning ideas into practical applications, exploring new technologies, a
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   
 
-### Databases & Developer Tools
+### Developer Tools
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
