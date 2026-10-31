@@ -23,9 +23,8 @@ I'm a final-year Diploma in ICT student at **Sol Plaatje University (SPU)** with
 I enjoy turning ideas into practical applications, exploring new technologies, and strengthening my skills through hands-on projects, collaborative work, and continuous learning.
 
 - 🎓 Currently completing my Diploma in ICT.
-- 💻 Interested in application development, human centered technology, backend engineering, and data analysis.
-- ☕ Developing my programming skills in Java and Python.
-- 🌐 Exploring REST APIs, full-stack development, and database integration.
+- 💻 Interested in application development, human centered technology, Artificial Intelligence, and data analysis.
+- ☕ Developing my programming skills in Java and Python and database integration
 - 🤝 Interested in collaborative projects and opportunities to grow as a developer.
 - 🎯 Goal: Build reliable, maintainable, and user-focused software solutions.
 
